@@ -334,7 +334,7 @@ li a{
     }
 }
 
-@media (max-width:350px){
+@media (max-width:370px){
     li a{
 
         font-size:1.6vh;
